@@ -17,7 +17,9 @@
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Projects
-- - - More projects coming soon as I continue learning!
+- - [My Portfolio Website](https://github.com/Lizaxyz/lizaaxyz-github.com)
+  - A simple personal website built with HTML and CSS to showcase my skills.
+- - More projects coming soon as I continue learning!
 
 ### Connect with Me
 
