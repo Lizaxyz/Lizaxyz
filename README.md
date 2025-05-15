@@ -1,6 +1,6 @@
 # 👋Hi, I’m @Lizaxyz
 
-I'm a passionate learner and aspiring developer exploring the world of programming and technology. Currently learning **Data Structures & Algorithms with Java** and building foundational skills in software development.
+ I'm a passionate learner and aspiring developer exploring the world of programming and technology. Currently learning **Data Structures & Algorithms with Java** and building foundational skills in software development.
 
 ### About Me
 - 🔭 Currently working on: Personal coding projects and Java DSA problems
