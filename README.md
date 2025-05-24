@@ -19,6 +19,8 @@
 ### Projects
 - - [My Portfolio Website](https://github.com/Lizaxyz/lizaaxyz-github.com)
   - A simple personal website built with HTML and CSS to showcase my skills.
+- - https://github.com/Lizaxyz/EmployeeManagement
+  - A simple Java program using OOP with Employee and Manager classes.
 - - More projects coming soon as I continue learning!
 
 ### Connect with Me
